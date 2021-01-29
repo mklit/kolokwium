@@ -1,0 +1,3 @@
+/home/mklit/Documents/git/kolokwium/zad3/myProgram/CMakeFiles/rebuild_cache.dir
+/home/mklit/Documents/git/kolokwium/zad3/myProgram/CMakeFiles/edit_cache.dir
+/home/mklit/Documents/git/kolokwium/zad3/myProgram/CMakeFiles/app.dir
